@@ -208,7 +208,7 @@
 
     git clone https://github.com/scone-tech/hacking-tech.git
     
-    chmod -R 755 hackingtool  
+    chmod -R 755 hacking-tech  
     
     cd hacking-tech
     
