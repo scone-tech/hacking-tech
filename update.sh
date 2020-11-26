@@ -36,7 +36,7 @@ cd hackingtool
 
 clear
 
-git clone https://github.com/Z4nzu/hackingtool.git
+git clone https://github.com/scone-tech/hackin-tech.git
 
 clear
 
