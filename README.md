@@ -206,7 +206,7 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/Z4nzu/hackingtool.git
+    git clone https://github.com/scone-tech/hacking-tech.git
     
     chmod -R 755 hackingtool  
     
@@ -220,7 +220,7 @@
 
  After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hackingtool**
 
-#### Thanks to original Author of the tools used in hackingtool
+#### Thanks to original Author of the tools used in scone-
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
@@ -231,7 +231,7 @@
 - [ ] Want to do automatic 
 
 ## Social Media :mailbox_with_no_mail:
-##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://instagram.com/thenje_te_rruges/
+##### Your Favourite Tool is not in scone-tech or Suggestions Please [CLICK HERE]https://instagram.com/thenje_te_rruges/
 ![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
