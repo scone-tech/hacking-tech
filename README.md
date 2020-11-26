@@ -210,17 +210,16 @@
     
     chmod -R 755 hackingtool  
     
-    cd hackingtool
+    cd hacking-tech
     
     sudo pip3 install -r requirement.txt
     
     bash install.sh
     
-    sudo hackingtool
+    sudo hacking-tech
 
- After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hackingtool**
-
-#### Thanks to original Author of the tools used in scone-
+ After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hacking-tech**
+#### Thanks to original Author of the tools used in scone-tech
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
