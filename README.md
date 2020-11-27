@@ -9,7 +9,7 @@
 [![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
-####                                          By :Hackerscone;
+####                                          By :ALBANIANS CYBER-SECURITY;
 
 ## Update Available V1.1.0 🚀 
 - [x] Added New Tools 
